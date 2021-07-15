@@ -24,7 +24,7 @@
 
 <br>
 
-[![davarg5's github stats](https://github-readme-stats.vercel.app/api?username=davarg5&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/davarg5/github-readme-stats)<br/>
+[![davarg5's github stats](https://github-readme-stats.vercel.app/api?username=davarg5&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 <!--
 **davarg5/davarg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
