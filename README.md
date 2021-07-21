@@ -5,6 +5,7 @@
 - Check out my portfolio at <a href='https://dannyvargas.me/'>dannyvargas.me</a>
 - Professional updates on <a href='https://www.linkedin.com/in/danielvargas916/'>LinkedIn</a>
 - Reach me at <a href='mailto: davarg5@yahoo.com'>davarg5@yahoo.com</a>
+- Interests include: Sports 🏈 | Video games 🎮 | Music 🎧
 
 ### Toolbox
 
